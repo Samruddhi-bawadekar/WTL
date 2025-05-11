@@ -1,0 +1,40 @@
+#box
+{
+    background-color:blue;
+}
+.heading
+{
+    color:red;
+}
+button{
+    background-color:green;
+}
+h1{
+    text-align:center;
+}
+h1{
+    text-decoration:dotted underline;
+}
+a{
+    text-decoration:none;
+}
+h2{
+    font-weight:normal;
+}
+p{
+    font-family:'Segoe UI';
+    text-transform:capitalize;
+}
+h4{
+    text-align:center;
+    text-transform:capitalize;
+}
+*{
+    font-family:'Times New Roman';
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}

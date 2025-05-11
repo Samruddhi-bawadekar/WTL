@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml:stylesheet type="text/xsl" href="students.xsl"
+<students>
+    <student>
+     <name> John Doe</name>
+     <marks>85</marks>
+    </student>
+
+    <student>
+     <name>Jane Smith</name>
+     <marks>40</marks>
+    </student>
+
+    <student>
+   <name>Bob Brown</name>
+   <marks>30</marks>
+    </student>
+</students>
+

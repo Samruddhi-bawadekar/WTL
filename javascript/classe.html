@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Internal JS</title>
+    </head>
+    <body>
+        <h2>First For loop</h2>
+        <script>
+           class Employee
+           {
+            constructor(id,name)
+            {
+                this.id=id;
+                this.name=name;
+            }
+
+            detail()
+            {
+                document.writeln(this.id+ "" +this.name+"<br>")
+            }
+           }
+           var e1=new Employee(101," Rohan Patil");
+           var e2=new Employee(102," Rakesh Mehta");
+           e1.detail();
+           e2.detail();
+        </script>
+    </body>
+</html>
